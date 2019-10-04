@@ -27,6 +27,10 @@ A compilation of Text-to-Speech Synthesis projects
 6. Stanford's GloVe<br>
     [Documentation] https://nlp.stanford.edu/projects/glove/<br>
     [Code] https://github.com/stanfordnlp/GloVe<br>
+    
+7. DeepMind's GAN-TTS
+    [Documentation] https://arxiv.org/pdf/1909.11646.pdf<br>
+    [Code] https://github.com/yanggeng1995/GAN-TTS<br>
 
 ## Other Directories
 1. https://github.com/topics/text-to-speech<br>
