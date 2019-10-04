@@ -35,3 +35,6 @@ A compilation of Text-to-Speech Synthesis projects
 ## Other Directories
 1. https://github.com/topics/text-to-speech<br>
 2. https://github.com/topics/google-text-to-speech<br>
+
+# Tagalog Text-to-Speech Synthesis
+Uses any or a combination of existing works, but applied in the Tagalog language.
