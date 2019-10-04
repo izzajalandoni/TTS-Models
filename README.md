@@ -1,7 +1,7 @@
 # tts_models
 A compilation of Text-to-Speech Synthesis projects
 
-## Famous Works
+### Famous Works
 1. NVIDIA's Tacotron 2<br>
     [Paper] https://arxiv.org/pdf/1712.05884.pdf<br>
     [Code] https://github.com/NVIDIA/tacotron2<br>
@@ -32,7 +32,7 @@ A compilation of Text-to-Speech Synthesis projects
     [Documentation] https://arxiv.org/pdf/1909.11646.pdf<br>
     [Code] https://github.com/yanggeng1995/GAN-TTS<br>
 
-## Other Directories
+### Other Directories
 1. https://github.com/topics/text-to-speech<br>
 2. https://github.com/topics/google-text-to-speech<br>
 
