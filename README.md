@@ -1,7 +1,8 @@
 # tts_models
 A compilation of Text-to-Speech Synthesis projects
 
-### Famous Works
+## Famous Works
+### Single-Speaker TTS
 1. NVIDIA's Tacotron 2<br>
     [Paper] https://arxiv.org/pdf/1712.05884.pdf<br>
     [Code] https://github.com/NVIDIA/tacotron2<br>
@@ -35,6 +36,16 @@ A compilation of Text-to-Speech Synthesis projects
 ### Other Directories
 1. https://github.com/topics/text-to-speech<br>
 2. https://github.com/topics/google-text-to-speech<br>
+
+### Multi-Speaker TTS
+1. Multi-Speaker Tacotron in TensorFlow<br>
+    [Code] https://github.com/carpedm20/multi-speaker-tacotron-tensorflow<br>
+
+2. DeepVoice Series<br>
+    [DeepVoice 2] https://github.com/jdbermeol/deep_voice_2<br>
+    [DeepVoice 3] https://github.com/r9y9/deepvoice3_pytorch<br>
+
+** Most MS-TTS are unofficial code implementations
 
 # Tagalog Text-to-Speech Synthesis
 Uses any or a combination of existing works, but applied in the Tagalog language.
