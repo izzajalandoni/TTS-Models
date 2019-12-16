@@ -41,7 +41,7 @@ A compilation of Text-to-Speech Synthesis projects
 ** Most MS-TTS are unofficial code implementations
 
 # Tagalog Text-to-Speech Synthesis
-Uses any or a combination of existing works, but applied in the Tagalog language. For this project, NVIDIA's tacotron2 and waveglow provided the best result despite the networks being optimized for single-speaker data and our tagalog dataset being multi-speaker. This might be because, given that tacotron2 trains on per-character level, it properly learns the speaker-dependent features such as prosody. Hence, the network was able to capture this information but fails in modeling the voice.
+Uses any or a combination of existing works, but applied in the Tagalog language. For this project, NVIDIA's tacotron2 and waveglow provided the best results despite the networks being optimized for single-speaker data and our tagalog dataset being multi-speaker. This might be because, given that tacotron2 trains on per-character level, it properly learns the speaker-dependent features such as prosody. Hence, the network was able to capture this information but fails in modeling the voice.
 
 Training tacotron2: `python train.py --output_directory \[output dir] --log_directory \[log dir] -c \[optional, checkpoint file]`<br>
 Training waveglow: `python train.py -c config.json`<br>
