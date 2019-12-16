@@ -1,0 +1,519 @@
+/home/airscan/tts_files/Data/Isip06/compiled/1734.110901.064551.0028.wav|Felix
+/home/airscan/tts_files/Data/Isip06/compiled/5781.111124.050515.0245.wav|dalî-dalì (one finger width-quickness)
+/home/airscan/tts_files/Data/Isip06/compiled/2968.110905.063932.0378.wav|Itinuturing na malaking hamon ng Palasyo ang pagiging kulelat ng ekonomiya ng Pilipinas sa Asya
+/home/airscan/tts_files/Data/Isip06/compiled/7718.110919.074817.0094.wav|Patio Pacific Resort
+/home/airscan/tts_files/Data/Isip06/compiled/0156.110816.035620.0114.wav|Pancit
+/home/airscan/tts_files/Data/Isip06/compiled/5015.110909.051345.0362.wav|Nahihirapan po akong pigilan ang pag-ihi ko
+/home/airscan/tts_files/Data/Isip06/compiled/4281.110817.051434.0320.wav|Katunayan sinabi ng BSP na kumpara noong mga nakaraang taon, bumaba ng mahigit isang dolyar ang singil sa pagpapadala ng dolyar. 
+/home/airscan/tts_files/Data/Isip06/compiled/1468.111129.004541.0293.wav|Bibili ba ng pagkain si Maricel?
+/home/airscan/tts_files/Data/Isip06/compiled/5781.111124.050515.0318.wav|Alin-alin ang damit na ibibigay mo sa kanya?
+/home/airscan/tts_files/Data/Isip06/compiled/2968.110823.020422.0423.wav|Ginoong Matsing, ang sabi ng pagong, kumusta ang iyong punong-saging?
+/home/airscan/tts_files/Data/Isip06/compiled/7546.110916.080817.0487.wav|Ang isra ay lumalangoy sa ragat.
+/home/airscan/tts_files/Data/Isip06/compiled/2515.110901.093952.0218.wav|itong
+/home/airscan/tts_files/Data/Isip06/compiled/9640.110818.005729.0346.wav|Nagsusugat po ang balat niya
+/home/airscan/tts_files/Data/Isip06/compiled/0781.110923.010330.0255.wav|labì-labí (lips-remnants)
+/home/airscan/tts_files/Data/Isip06/compiled/0470.110908.020820.0298.wav|Magkatrabaho nang hindi na lumuluwas ng Maynila.
+/home/airscan/tts_files/Data/Isip06/compiled/0312.110923.052230.0180.wav|Muntinlupa
+/home/airscan/tts_files/Data/Isip06/compiled/0781.110923.010330.0208.wav|doon (there, far)
+/home/airscan/tts_files/Data/Isip06/compiled/4890.110831.003544.0212.wav|ikalabintatlo
+/home/airscan/tts_files/Data/Isip06/compiled/8765.111004.034718.0192.wav|bagong
+/home/airscan/tts_files/Data/Isip06/compiled/2751.110908.092002.0149.wav|Lumbia Airport
+/home/airscan/tts_files/Data/Isip06/compiled/9750.110818.024409.0078.wav|Alliance Global
+/home/airscan/tts_files/Data/Isip06/compiled/3437.110909.014723.0430.wav|Hindi dapat magdiwang ang pamahalaan kung patuloy na namamayagpag ang piso sa merkado.
+/home/airscan/tts_files/Data/Isip06/compiled/0390.110909.064720.0276.wav|Ano pong pangalan ninyo?
+/home/airscan/tts_files/Data/Isip06/compiled/5437.110905.081835.0145.wav|tagal
+/home/airscan/tts_files/Data/Isip06/compiled/7156.111003.093337.0074.wav|Bank of the Philippine Islands
+/home/airscan/tts_files/Data/Isip06/compiled/2843.110826.041132.0215.wav|ikatatlumpu
+/home/airscan/tts_files/Data/Isip06/compiled/2187.110923.071602.0196.wav|kokak
+/home/airscan/tts_files/Data/Isip06/compiled/7437.110902.065047.0044.wav|Fred
+/home/airscan/tts_files/Data/Isip06/compiled/4156.110907.050854.0481.wav|Sa kaniyang salitang kaloob ng langit
+/home/airscan/tts_files/Data/Isip06/compiled/4093.111003.052824.0023.wav|noo
+/home/airscan/tts_files/Data/Isip06/compiled/0406.110823.065630.0142.wav|Awang Airport
+/home/airscan/tts_files/Data/Isip06/compiled/5437.110905.081835.0037.wav|Daniel
+/home/airscan/tts_files/Data/Isip06/compiled/2828.110905.020202.0445.wav|Ang tanging biyaya'y moral na adhika;
+/home/airscan/tts_files/Data/Isip06/compiled/4093.111003.052824.0050.wav|Martin
+/home/airscan/tts_files/Data/Isip06/compiled/9859.110817.092649.0481.wav|Siyang magbubukas sa malayang pugad.
+/home/airscan/tts_files/Data/Isip06/compiled/5640.110902.080535.0175.wav|mahalumigmig 
+/home/airscan/tts_files/Data/Isip06/compiled/2156.110822.004242.0394.wav|Nabigla't natakot ang matsing kaya buong pagmamadaling inilubog ang kaniyang bisig sa lalagyan ng atsara upang agad maalis ang kirot ng napasong bisig.
+/home/airscan/tts_files/Data/Isip06/compiled/1390.110912.080651.0085.wav|Philippine Stock Exchange
+/home/airscan/tts_files/Data/Isip06/compiled/0156.110816.035620.0298.wav|Kailangang mairrehistro ang isang bagong negosyo sa iba't ibang ahensya ng gobyerno
+/home/airscan/tts_files/Data/Isip06/compiled/4093.111003.052824.0418.wav|May kakilala ka ba sa pamilya mo na may ganyang sakit din?
+/home/airscan/tts_files/Data/Isip06/compiled/5102.110930.084135.0215.wav|eto (here)
+/home/airscan/tts_files/Data/Isip06/compiled/0390.110909.064720.0127.wav|Tinorta
+/home/airscan/tts_files/Data/Isip06/compiled/5046.110921.050345.0552.wav|Punasi mo muna iyang lamesa
+/home/airscan/tts_files/Data/Isip06/compiled/7718.110919.074817.0093.wav|Somerset Salcedo Makati
+/home/airscan/tts_files/Data/Isip06/compiled/0312.110923.052230.0277.wav|Magkano ho ito?
+/home/airscan/tts_files/Data/Isip06/compiled/6093.110816.031856.0054.wav|Yvonne
+/home/airscan/tts_files/Data/Isip06/compiled/9693.110915.003829.0409.wav|Araw na itong dapat kilalanin na sa bawat isang hakbang natin ay tumutuntong tayo at nabibingit sa malalim na hukay ng kamatayan na sa ati'y inuumang ng mga kaaway.
+/home/airscan/tts_files/Data/Isip06/compiled/4468.110921.081154.0249.wav|Maligayang kaarawan.
+/home/airscan/tts_files/Data/Isip06/compiled/7140.110907.063427.0035.wav|Lester
+/home/airscan/tts_files/Data/Isip06/compiled/2156.110822.004242.0112.wav|Tokwa't Baboy
+/home/airscan/tts_files/Data/Isip06/compiled/5781.111124.050515.0019.wav|litid
+/home/airscan/tts_files/Data/Isip06/compiled/7984.110905.093807.0449.wav|Bumalik kayo pagkatapos ng isang linggo
+/home/airscan/tts_files/Data/Isip06/compiled/7859.110816.083827.0184.wav|akin (mine)
+/home/airscan/tts_files/Data/Isip06/compiled/9640.110818.005729.0432.wav|Sa mabuting anak ay buhay na nasa.
+/home/airscan/tts_files/Data/Isip06/compiled/4890.110831.003544.0053.wav|Janice
+/home/airscan/tts_files/Data/Isip06/compiled/7109.110822.021157.0079.wav|JG Summit Holdings
+/home/airscan/tts_files/Data/Isip06/compiled/4625.111004.093634.0224.wav|ikadalawampu't isang
+/home/airscan/tts_files/Data/Isip06/compiled/9453.110912.064249.0272.wav|pasò-pasô (scald/burn-flower pot)
+/home/airscan/tts_files/Data/Isip06/compiled/2843.110826.041132.0051.wav|Dominic
+/home/airscan/tts_files/Data/Isip06/compiled/5625.111129.075925.0082.wav|Jollibee
+/home/airscan/tts_files/Data/Isip06/compiled/2515.110901.093952.0074.wav|Dela Cruz
+/home/airscan/tts_files/Data/Isip06/compiled/0546.110915.100040.0145.wav|susunod
+/home/airscan/tts_files/Data/Isip06/compiled/2968.110823.020422.0224.wav|Hanggang sa muli.
+/home/airscan/tts_files/Data/Isip06/compiled/9312.110825.005139.0130.wav|Halaya
+/home/airscan/tts_files/Data/Isip06/compiled/5968.110824.005315.0198.wav|Antipolo
+/home/airscan/tts_files/Data/Isip06/compiled/8953.120110.011408.0285.wav|Maligayang kaarawan ho sa inyo.	
+/home/airscan/tts_files/Data/Isip06/compiled/8453.110816.045818.0372.wav|Matalino man ang matsing, naiisahan din.
+/home/airscan/tts_files/Data/Isip06/compiled/3781.110906.094423.0316.wav|Sino'ng may kasalanan?
+/home/airscan/tts_files/Data/Isip06/compiled/5071.110930.015805.0230.wav|ikatatlong
+/home/airscan/tts_files/Data/Isip06/compiled/7718.110919.074817.0480.wav|May butas ang ringring nila.
+/home/airscan/tts_files/Data/Isip06/compiled/1578.110909.082831.0068.wav|Philtrust Bank
+/home/airscan/tts_files/Data/Isip06/compiled/4093.111003.052824.0298.wav|Walang anuman.
+/home/airscan/tts_files/Data/Isip06/compiled/0593.110919.093000.0419.wav|Bago pa mag-ikaanim ng hapon ay nagtipon na ang mga dambuhalang gorilya sa plasa ngunit nadatnan na nila ang alitaptap na naghihintay sa kanila.
+/home/airscan/tts_files/Data/Isip06/compiled/7437.110902.065047.0362.wav|Hindi lamang ako makaakyat sa puno at makapamitas ng mga bunga.
+/home/airscan/tts_files/Data/Isip06/compiled/0484.110824.080440.0450.wav|55
+/home/airscan/tts_files/Data/Isip06/compiled/4890.110831.003544.0017.wav|babà
+/home/airscan/tts_files/Data/Isip06/compiled/3875.110825.022713.0340.wav|Ayon kay Pangulong Arroyo, sa pakikipagpulong nito sa mga negosyante, sila umano'y pawang naghahangad na magbuhos ng puhunan sa Pilipinas ngayong paangat na ang ekonomiya ng bansa. 
+/home/airscan/tts_files/Data/Isip06/compiled/5015.110909.051345.0386.wav|bata't matanda at sampung mga babae ay marunong bumasa at sumulat ng talagang pagsulat nating mga Tagalog.
+/home/airscan/tts_files/Data/Isip06/compiled/8000.110912.033318.0008.wav|kapuso
+/home/airscan/tts_files/Data/Isip06/compiled/2062.110825.085322.0056.wav|Cherry
+/home/airscan/tts_files/Data/Isip06/compiled/5968.110824.005315.0064.wav|Stella
+/home/airscan/tts_files/Data/Isip06/compiled/8640.110913.092848.0353.wav|Ang DBP rin ang maglalabas ng pondo sa mga proyektong maaaprubahan. 
+/home/airscan/tts_files/Data/Isip06/compiled/0781.110923.010330.0322.wav|magpagupit para lalong gumanda at gumuwapo
+/home/airscan/tts_files/Data/Isip06/compiled/8812.111004.065048.0221.wav|talà-talâ (star-notation)
+/home/airscan/tts_files/Data/Isip06/compiled/6890.110902.052656.0133.wav|Davao International Airport
+/home/airscan/tts_files/Data/Isip06/compiled/8703.110823.100408.0357.wav|Hangarin ng pangulo na mabigyan ng sampung milyong trabaho ang naghahanap ng gawain hanggang matapos ang kanyang termino sa taong dalawang libo at sampu. 
+/home/airscan/tts_files/Data/Isip06/compiled/6093.110816.031856.0373.wav|Payabang na sinabi ng hangin sa araw: Mas malakas ako sayo.
+/home/airscan/tts_files/Data/Isip06/compiled/2968.110905.063932.0326.wav|Tutugtog ba si Francisco, o kakanta?
+/home/airscan/tts_files/Data/Isip06/compiled/0156.110816.035620.0234.wav|Mabuti naman.
+/home/airscan/tts_files/Data/Isip06/compiled/4093.111003.052824.0042.wav|Christian
+/home/airscan/tts_files/Data/Isip06/compiled/2968.110905.063932.0194.wav|nakaraan
+/home/airscan/tts_files/Data/Isip06/compiled/6578.110826.011706.0339.wav|Samantala, ipinagmalaki ni Neri na gumaganda ang ekonomiya ng bansa. 
+/home/airscan/tts_files/Data/Isip06/compiled/7437.110902.065047.0198.wav|munting
+/home/airscan/tts_files/Data/Isip06/compiled/1656.111003.081411.0200.wav|siyang
+/home/airscan/tts_files/Data/Isip06/compiled/0171.111004.004730.0471.wav|Damdaming dakila at diwang matalas,
+/home/airscan/tts_files/Data/Isip06/compiled/6093.110816.031856.0345.wav|Dumating ang lusóng, halo, bubuyog at ang itlog.
+/home/airscan/tts_files/Data/Isip06/compiled/9640.110818.005729.0135.wav|Mactan-Cebu International Airport
+/home/airscan/tts_files/Data/Isip06/compiled/7109.110822.021157.0085.wav|Banco de Oro Universal Bank
+/home/airscan/tts_files/Data/Isip06/compiled/1015.111206.063111.0478.wav|Na kaya nawala’y dinatnan ng sigwa
+/home/airscan/tts_files/Data/Isip06/compiled/6578.110826.011706.0072.wav|Rizal Commercial Banking Corporation
+/home/airscan/tts_files/Data/Isip06/compiled/1015.111206.063111.0325.wav|Aniya, malaki ang pakinabang na makukuha ng taumbayan kung mayroong malinaw na reporma sa patakaran ng bansa.
+/home/airscan/tts_files/Data/Isip06/compiled/7140.110907.063427.0147.wav|karaka
+/home/airscan/tts_files/Data/Isip06/compiled/3781.110906.094423.0570.wav|Kung sasariwain at pagbabalikan,
+/home/airscan/tts_files/Data/Isip06/compiled/0546.110915.100040.0296.wav|Estudyante ba siya?
+/home/airscan/tts_files/Data/Isip06/compiled/0406.110823.065630.0020.wav|sintido
+/home/airscan/tts_files/Data/Isip06/compiled/6015.111124.020026.0120.wav|Tinusta
+/home/airscan/tts_files/Data/Isip06/compiled/4625.111004.093634.0017.wav|katambal
+/home/airscan/tts_files/Data/Isip06/compiled/5734.110916.062315.0360.wav|Katunayan, sinabi ng BSP na kumpara noong mga nakaraang taon, bumaba ng mahigit isang dolyar ang singil sa pagpapadala ng dolyar. 
+/home/airscan/tts_files/Data/Isip06/compiled/4468.110921.081154.0216.wav|ikadalawampu't isa
+/home/airscan/tts_files/Data/Isip06/compiled/9750.110818.024409.0369.wav|Ilang araw na siyang nilalagnat?
+/home/airscan/tts_files/Data/Isip06/compiled/5781.111124.050515.0270.wav|Manígong bagong taon.
+/home/airscan/tts_files/Data/Isip06/compiled/5093.110818.065955.0396.wav|Dahil sa takot na magtagumpay ang himagsikan sa pamumuno ni Bernardo ay nakipagkasundo ang mga paring Kastila sa ispiritu na sumapi sa engkantado na ititigil nila ang eksorsismo (exorcism) kung tutulungan sila nito na masupil si Bernardo.
+/home/airscan/tts_files/Data/Isip06/compiled/9000.110818.055659.0333.wav|Itigil mo na ang paninigarilyo
+/home/airscan/tts_files/Data/Isip06/compiled/2359.110818.085852.0200.wav|ikalabimpitong
+/home/airscan/tts_files/Data/Isip06/compiled/0546.110915.100040.0109.wav|Dilao
+/home/airscan/tts_files/Data/Isip06/compiled/2316.110831.094342.0200.wav|Karlo
+/home/airscan/tts_files/Data/Isip06/compiled/9859.110817.092649.0352.wav|Muli na namang bumaba ang presyo ng langis sa pandaigdigang pamilihan. 
+/home/airscan/tts_files/Data/Isip06/compiled/7984.110905.093807.0393.wav|Pananatili ng bangus raisers sa ilalim ng NAMA hinihiling na alisin
+/home/airscan/tts_files/Data/Isip06/compiled/8640.110913.092848.0230.wav|bulo-bulô (hairs (of fruits)-young carabao)
+/home/airscan/tts_files/Data/Isip06/compiled/3437.110909.014723.0577.wav|Ang pagkakaisa'y pagbabayanihan,
+/home/airscan/tts_files/Data/Isip06/compiled/4546.111125.052614.0225.wav|ikapitumpung
+/home/airscan/tts_files/Data/Isip06/compiled/5781.111124.050515.0552.wav|Kumakain ako ng mangga.
+/home/airscan/tts_files/Data/Isip06/compiled/4468.110921.081154.0100.wav|Monumento ni Magellan
+/home/airscan/tts_files/Data/Isip06/compiled/0156.110816.035620.0331.wav|Magandang gabi Doktor
+/home/airscan/tts_files/Data/Isip06/compiled/7859.110816.083827.0378.wav|ang landas na dapat nating tunguhin, ang liwanag niya'y tanaw sa ting mga mata,
+/home/airscan/tts_files/Data/Isip06/compiled/6015.111124.020026.0290.wav|Tutugtog ba siya?
+/home/airscan/tts_files/Data/Isip06/compiled/5984.110823.083245.0123.wav|Piyaya
+/home/airscan/tts_files/Data/Isip06/compiled/6015.111124.020026.0020.wav|labì
+/home/airscan/tts_files/Data/Isip06/compiled/9625.110824.093109.0445.wav|Sa mga pangako at mga pangarap;
+/home/airscan/tts_files/Data/Isip06/compiled/5437.110905.081835.0109.wav|Bamboo Organ of Las Piñas
+/home/airscan/tts_files/Data/Isip06/compiled/8765.111004.034718.0183.wav|eto (here)
+/home/airscan/tts_files/Data/Isip06/compiled/3875.110825.022713.0235.wav|dala-dalá-dalâ (net-take-taught by experience)
+/home/airscan/tts_files/Data/Isip06/compiled/6015.111124.020026.0379.wav|Iwas ka sa mga maaalat
+/home/airscan/tts_files/Data/Isip06/compiled/9312.110825.005139.0040.wav|Anthony
+/home/airscan/tts_files/Data/Isip06/compiled/7140.110907.063427.0032.wav|Rafael
+/home/airscan/tts_files/Data/Isip06/compiled/3531.111206.045403.0110.wav|Bamboo Organ of Las Piñas
+/home/airscan/tts_files/Data/Isip06/compiled/6015.111124.020026.0467.wav|Kinabukasan, maaga itong gumising at ipinamalita sa lahat ng kapitbahay na kaya daw laging may dalang ilaw si Iput-Iput ay dahil duwag ito.
+/home/airscan/tts_files/Data/Isip06/compiled/5250.110907.005955.0296.wav|Pagagandahin ng administrasyon ang ekonomiya ng Pilipinas
+/home/airscan/tts_files/Data/Isip06/compiled/9203.110914.083459.0248.wav|bakit (why)
+/home/airscan/tts_files/Data/Isip06/compiled/0484.110824.080440.0173.wav|Guihulngan
+/home/airscan/tts_files/Data/Isip06/compiled/4625.111004.093634.0107.wav|Shangri-la Plaza
+/home/airscan/tts_files/Data/Isip06/compiled/5781.111124.050515.0327.wav|Estudyante ba si Michael?
+/home/airscan/tts_files/Data/Isip06/compiled/9453.110912.064249.0207.wav|Mandaluyong
+/home/airscan/tts_files/Data/Isip06/compiled/0156.110816.035620.0118.wav|Kanin
+/home/airscan/tts_files/Data/Isip06/compiled/2359.110818.085852.0267.wav|Hindi ba't may sakít ka?
+/home/airscan/tts_files/Data/Isip06/compiled/8953.120110.011408.0038.wav|talukap
+/home/airscan/tts_files/Data/Isip06/compiled/6890.110902.052656.0241.wav|Mainit na pagbati sa inyong lahat.
+/home/airscan/tts_files/Data/Isip06/compiled/5984.110823.083245.0161.wav|buwang
+/home/airscan/tts_files/Data/Isip06/compiled/0265.110823.033220.0093.wav|The Orchard Cebu Hotel & Suites
+/home/airscan/tts_files/Data/Isip06/compiled/5015.110909.051345.0035.wav|Christian
+/home/airscan/tts_files/Data/Isip06/compiled/5640.110902.080535.0495.wav|Nag-usbong sa diwa't lahing makabayan,
+/home/airscan/tts_files/Data/Isip06/compiled/2843.110826.041132.0186.wav|Bacolod
+/home/airscan/tts_files/Data/Isip06/compiled/2515.110901.093952.0212.wav|tulad
+/home/airscan/tts_files/Data/Isip06/compiled/3531.111206.045403.0056.wav|Rowena
+/home/airscan/tts_files/Data/Isip06/compiled/5015.110909.051345.0451.wav|Ang hindi magmahal sa kanyang salita
+/home/airscan/tts_files/Data/Isip06/compiled/4468.110921.081154.0549.wav|7
+/home/airscan/tts_files/Data/Isip06/compiled/3781.110906.094423.0167.wav|dalasan
+/home/airscan/tts_files/Data/Isip06/compiled/2968.110905.063932.0205.wav|ulap
+/home/airscan/tts_files/Data/Isip06/compiled/6578.110826.011706.0187.wav|Lapu-Lapu
+/home/airscan/tts_files/Data/Isip06/compiled/3031.110901.010213.0201.wav|laban
+/home/airscan/tts_files/Data/Isip06/compiled/2968.110905.063932.0162.wav|Tinapa
+/home/airscan/tts_files/Data/Isip06/compiled/9693.110915.003829.0013.wav|puwit
+/home/airscan/tts_files/Data/Isip06/compiled/6546.110822.052636.0093.wav|Ascott Makati Serviced Residence
+/home/airscan/tts_files/Data/Isip06/compiled/2515.110901.093952.0383.wav|Mga dalawa hanggang tatlong araw
+/home/airscan/tts_files/Data/Isip06/compiled/1468.111129.004541.0051.wav|Michelle
+/home/airscan/tts_files/Data/Isip06/compiled/8328.110914.065008.0125.wav|Pinirito
+/home/airscan/tts_files/Data/Isip06/compiled/8703.110823.100408.0103.wav|Banco de Oro
+/home/airscan/tts_files/Data/Isip06/compiled/4156.110907.050854.0213.wav|Guimaras
+/home/airscan/tts_files/Data/Isip06/compiled/4625.111004.093634.0180.wav|Cagayan de Oro
+/home/airscan/tts_files/Data/Isip06/compiled/2843.110826.041132.0072.wav|Dela Rosa
+/home/airscan/tts_files/Data/Isip06/compiled/0593.110919.093000.0177.wav|sino
+/home/airscan/tts_files/Data/Isip06/compiled/0312.110923.052230.0228.wav|kita-kitâ-kitá (see-earn-you and i)
+/home/airscan/tts_files/Data/Isip06/compiled/7546.110916.080817.0404.wav|Ano man ang gawa at dali-dali ay hindi iigi ang pagkakayari.
+/home/airscan/tts_files/Data/Isip06/compiled/7984.110905.093807.0027.wav|mata
+/home/airscan/tts_files/Data/Isip06/compiled/1578.110909.082831.0366.wav|Magandang gabi po Doktor
+/home/airscan/tts_files/Data/Isip06/compiled/5734.110916.062315.0172.wav|alapáap
+/home/airscan/tts_files/Data/Isip06/compiled/6890.110902.052656.0449.wav|Ngunit ang lipuna'y hindi nagwawakas,
+/home/airscan/tts_files/Data/Isip06/compiled/7390.111004.082927.0318.wav|Sinu-sino ang kasama mo?
+/home/airscan/tts_files/Data/Isip06/compiled/1578.110909.082831.0279.wav|Maglinis muna
+/home/airscan/tts_files/Data/Isip06/compiled/5250.110907.005955.0173.wav|Muntinlupa
+/home/airscan/tts_files/Data/Isip06/compiled/0750.111129.050640.0123.wav|Edsa Shangri-La Hotel
+/home/airscan/tts_files/Data/Isip06/compiled/8640.110913.092848.0079.wav|First Philippine Holdings Corporation
+/home/airscan/tts_files/Data/Isip06/compiled/3437.110909.014723.0444.wav|Taliwas ito sa naunang pahayag ng pamahalaan na hindi mararamdaman ng mga mamayan ang epekto ng batas. 
+/home/airscan/tts_files/Data/Isip06/compiled/5015.110909.051345.0218.wav|ikadalawampu't lima
+/home/airscan/tts_files/Data/Isip06/compiled/9203.110914.083459.0677.wav|Buksan mo ang telebisyon natin. (Manila)
+/home/airscan/tts_files/Data/Isip06/compiled/8328.110914.065008.0043.wav|Jestoni
+/home/airscan/tts_files/Data/Isip06/compiled/5250.110907.005955.0200.wav|dindo
+/home/airscan/tts_files/Data/Isip06/compiled/9203.110914.083459.0717.wav|76
+/home/airscan/tts_files/Data/Isip06/compiled/8187.110822.034058.0019.wav|kumare
+/home/airscan/tts_files/Data/Isip06/compiled/5102.110930.084135.0383.wav|Magkatrabaho nang hindi na lumuluwas ng Maynila.
+/home/airscan/tts_files/Data/Isip06/compiled/2359.110818.085852.0346.wav|Umuwi ang pangulo mula sa davos na dala ang mga magagandang balita para sa mga Pilipino, lalo na ang balak ng mga malalaking negosyante sa daigdig na pamumuhunan dito ating bansa. 
+/home/airscan/tts_files/Data/Isip06/compiled/2578.120201.092932.0190.wav|Sa kauna-unahang pagkakataon sa kasaysayan ng overseas employment ng mga Filipino seafarers na umabot sa two hundred sixty thousand eighty four ang mga Filipino sailors na nakapagtrabaho sa abroad noong nakaraang taon, na hinigitan pa nito ang annual average na two hundred fifty thousand.
+/home/airscan/tts_files/Data/Isip06/compiled/5102.110930.084135.0025.wav|ilong
+/home/airscan/tts_files/Data/Isip06/compiled/5437.110905.081835.0280.wav|Hindi siya dumating, ano?
+/home/airscan/tts_files/Data/Isip06/compiled/9859.110817.092649.0022.wav|katawan
+/home/airscan/tts_files/Data/Isip06/compiled/2968.110823.020422.0337.wav|Tatlong beses sa isang araw
+/home/airscan/tts_files/Data/Isip06/compiled/2187.110923.071602.0151.wav|nakaraan
+/home/airscan/tts_files/Data/Isip06/compiled/7140.110907.063427.0258.wav|Magkano po ang mga ito?	
+/home/airscan/tts_files/Data/Isip06/compiled/7390.111004.082927.0224.wav|ikatatlumpu
+/home/airscan/tts_files/Data/Isip06/compiled/9750.110818.024409.0338.wav|Ipinahayag rin ng pangulo na pagtutuunan ng pansin ng pamahalaan ngayong taon ang pagpapalakas ng burukrasya upang makapagbigay ito ng mabuting serbisyo sa bawat mamamayang Pilipino. 
+/home/airscan/tts_files/Data/Isip06/compiled/5437.110905.081835.0060.wav|Stella
+/home/airscan/tts_files/Data/Isip06/compiled/5437.110905.081835.0056.wav|Karen
+/home/airscan/tts_files/Data/Isip06/compiled/9000.110818.055659.0322.wav|Bilang tugon, sinabi ni Garin na kailangan unahin ang mga lugar na higit na nangangailangan ng nasabing pananim.
+/home/airscan/tts_files/Data/Isip06/compiled/4468.110921.081154.0269.wav|Saan ho ang terminal ng bus?
+/home/airscan/tts_files/Data/Isip06/compiled/3781.110906.094423.0135.wav|Pancit
+/home/airscan/tts_files/Data/Isip06/compiled/7984.110905.093807.0037.wav|Julian
+/home/airscan/tts_files/Data/Isip06/compiled/5781.111124.050515.0382.wav|Kahirapan sa bansa, bumaba ayon kay PGMA
+/home/airscan/tts_files/Data/Isip06/compiled/5546.110817.065525.0317.wav|Dumami na lamang anya ang gumagamit nito sa kasalukuyan dahilan na rin sa patuloy na pagtaas ng halaga ng produktong petrolyo.
+/home/airscan/tts_files/Data/Isip06/compiled/5625.111129.075925.0094.wav|Shangri-la Plaza
+/home/airscan/tts_files/Data/Isip06/compiled/8000.110912.033318.0264.wav|Mabuhay!
+/home/airscan/tts_files/Data/Isip06/compiled/2515.110901.093952.0142.wav|Tocino
+/home/airscan/tts_files/Data/Isip06/compiled/8062.110822.100328.0165.wav|tag-araw
+/home/airscan/tts_files/Data/Isip06/compiled/1015.111206.063111.0355.wav|Ito na ang ikalabindalawang buwan na magkakasunod na mahigit sa isang bilyong dolyar ang padala ng mga OFWs na dumadaan sa mga bangko.
+/home/airscan/tts_files/Data/Isip06/compiled/7140.110907.063427.0054.wav|Danielle
+/home/airscan/tts_files/Data/Isip06/compiled/1734.110901.064551.0453.wav|Ngunit tila yata nalilimutan mo,
+/home/airscan/tts_files/Data/Isip06/compiled/2515.110901.093952.0331.wav|Bunsod nito, inaasahang makakagawa ng tatlumpung porsyentong paglago ang nasabing kumpanya.
+/home/airscan/tts_files/Data/Isip06/compiled/0484.110824.080440.0311.wav|Ayon kay Bunye, patuloy na binibigyang pansin ng pamahalaan ang pagpapalago ng ekonomiya ng bansa
+/home/airscan/tts_files/Data/Isip06/compiled/7109.110822.021157.0277.wav|Paliwanag ng DOST, ito'y dahil nagmumula sa mga halamang-dagat ng Pilipinas ang carrageenan na pangunahing sangkap sa paggawa ng hydro-gel. 
+/home/airscan/tts_files/Data/Isip06/compiled/2187.110923.071602.0345.wav|Inaasahang magiging matumal ang kalakalan sa merkado sa mga susunod na araw
+/home/airscan/tts_files/Data/Isip06/compiled/5734.110916.062315.0516.wav|31
+/home/airscan/tts_files/Data/Isip06/compiled/8062.110822.100328.0121.wav|Asukal
+/home/airscan/tts_files/Data/Isip06/compiled/0406.110823.065630.0104.wav|Burnham Park
+/home/airscan/tts_files/Data/Isip06/compiled/2968.110905.063932.0210.wav|Puerto Princesa
+/home/airscan/tts_files/Data/Isip06/compiled/1578.110909.082831.0360.wav|Nagkaroon ako dati ng acute bronchitis
+/home/airscan/tts_files/Data/Isip06/compiled/8328.110914.065008.0424.wav|Ang iyong hiniram, isauli o palitan. Upang sa susunod, hindi ka makadalaan.
+/home/airscan/tts_files/Data/Isip06/compiled/9203.110914.083459.0402.wav|Kailan magkikita sa bahay sina Ronald?
+/home/airscan/tts_files/Data/Isip06/compiled/0156.110816.035620.0371.wav|Ngunit yamang ako'y mapagbigay, pamimiliin kita ng iyong kamatayan.
+/home/airscan/tts_files/Data/Isip06/compiled/5015.110909.051345.0002.wav|kaibigan
+/home/airscan/tts_files/Data/Isip06/compiled/0484.110824.080440.0277.wav|Aling damit ang ibibigay mo sa kanya?
+/home/airscan/tts_files/Data/Isip06/compiled/5046.110921.050345.0366.wav|Dahil sa mahusay na liderato ng mga pinuno ng bayan, nakabalik ito sa pang-unang pwesto nang umabot sa limampu't apat na milyong piso ang kita noong taong isang libo siyam na raan walumpu't siyam.
+/home/airscan/tts_files/Data/Isip06/compiled/4468.110921.081154.0104.wav|Powerplant Rockwell Mall
+/home/airscan/tts_files/Data/Isip06/compiled/2187.110923.071602.0228.wav|sunog-sunóg (conflagration-burned)
+/home/airscan/tts_files/Data/Isip06/compiled/5046.110921.050345.0280.wav|Gusto niyo bang kumain?	
+/home/airscan/tts_files/Data/Isip06/compiled/9859.110817.092649.0151.wav|susunod
+/home/airscan/tts_files/Data/Isip06/compiled/5734.110916.062315.0252.wav|Ikinalulugod ko po kayong makasáma.
+/home/airscan/tts_files/Data/Isip06/compiled/2828.110905.020202.0172.wav|Cavite
+/home/airscan/tts_files/Data/Isip06/compiled/0265.110823.033220.0177.wav|Ilagan
+/home/airscan/tts_files/Data/Isip06/compiled/7109.110822.021157.0029.wav|batok
+/home/airscan/tts_files/Data/Isip06/compiled/2316.110831.094342.0180.wav|Guimaras
+/home/airscan/tts_files/Data/Isip06/compiled/4890.110831.003544.0409.wav|Kung nasaan ang asukal, naruon ang langgam.
+/home/airscan/tts_files/Data/Isip06/compiled/5015.110909.051345.0037.wav|Victor
+/home/airscan/tts_files/Data/Isip06/compiled/5071.110930.015805.0126.wav|Nilasing
+/home/airscan/tts_files/Data/Isip06/compiled/8953.120110.011408.0283.wav|Gusto niyo hong kumain?
+/home/airscan/tts_files/Data/Isip06/compiled/8765.111004.034718.0483.wav|Kinuha ng Nanay niya ang aklat at ito ang sinabi niya.
+/home/airscan/tts_files/Data/Isip06/compiled/7718.110919.074817.0316.wav|Samantala, ipinagmalaki ni Neri na gumaganda ang ekonomiya ng bansa. 
+/home/airscan/tts_files/Data/Isip06/compiled/5015.110909.051345.0156.wav|bukang-liwayway
+/home/airscan/tts_files/Data/Isip06/compiled/8703.110823.100408.0069.wav|Jay
+/home/airscan/tts_files/Data/Isip06/compiled/2359.110818.085852.0305.wav|Batay kasi sa kasalukuyang batas, ang mga mangga lamang mula sa isla ng Guimaras ang tinatanggap sa Amerika.
+/home/airscan/tts_files/Data/Isip06/compiled/1390.110912.080651.0120.wav|Bibingka
+/home/airscan/tts_files/Data/Isip06/compiled/9625.110824.093109.0403.wav|Dinaig ng pagong ang matsing sa pamamagitan ng matalinong pamimili :  ang pagpili sa lusóng.
+/home/airscan/tts_files/Data/Isip06/compiled/5071.110930.015805.0448.wav|Yaong mapag-alinlangan, madalas mapagiwanan.
+/home/airscan/tts_files/Data/Isip06/compiled/5015.110909.051345.0374.wav|Nasa taong matapat ang huling halakhak.
+/home/airscan/tts_files/Data/Isip06/compiled/9312.110825.005139.0391.wav|Walang mapait na tutong sa taong nagugutom.
+/home/airscan/tts_files/Data/Isip06/compiled/2751.110908.092002.0038.wav|Eric
+/home/airscan/tts_files/Data/Isip06/compiled/5250.110907.005955.0259.wav|Maligayang kaarawan ho sa inyo.	
+/home/airscan/tts_files/Data/Isip06/compiled/8765.111004.034718.0242.wav|Maraming salamat po.
+/home/airscan/tts_files/Data/Isip06/compiled/0750.111129.050640.0159.wav|Ninoy Aquino International Airport
+/home/airscan/tts_files/Data/Isip06/compiled/8812.111004.065048.0306.wav|Hindi ba't may sakít ka?
+/home/airscan/tts_files/Data/Isip06/compiled/2578.120201.092932.0033.wav|Makinig kayong mabuti!
+/home/airscan/tts_files/Data/Isip06/compiled/1015.111206.063111.0402.wav|Magbirô lamang sa lasíng, huwág lang sa bagong gising.
+/home/airscan/tts_files/Data/Isip06/compiled/7437.110902.065047.0122.wav|Hamonado
+/home/airscan/tts_files/Data/Isip06/compiled/8062.110822.100328.0158.wav|madalang
+/home/airscan/tts_files/Data/Isip06/compiled/7156.111003.093337.0230.wav|buhay-buháy (life-alive)
+/home/airscan/tts_files/Data/Isip06/compiled/3875.110825.022713.0156.wav|dating
+/home/airscan/tts_files/Data/Isip06/compiled/4609.111003.070834.0202.wav|tubig
+/home/airscan/tts_files/Data/Isip06/compiled/6546.110822.052636.0192.wav|ikatatlumpu't pito
+/home/airscan/tts_files/Data/Isip06/compiled/7812.110826.025147.0428.wav|na sumasalang sa mahapding sugat ng ating pusong nagdaramdam;
+/home/airscan/tts_files/Data/Isip06/compiled/4546.111125.052614.0166.wav|himpapawid 
+/home/airscan/tts_files/Data/Isip06/compiled/4156.110907.050854.0106.wav|De Asis
+/home/airscan/tts_files/Data/Isip06/compiled/9203.110914.083459.0256.wav|lupa
+/home/airscan/tts_files/Data/Isip06/compiled/1390.110912.080651.0242.wav|habà-habâ (length-elongated)
+/home/airscan/tts_files/Data/Isip06/compiled/0484.110824.080440.0397.wav|Nalaman ng matalas ngunit di-masamang pagong, ang tunay at masamang balak ng matsing.
+/home/airscan/tts_files/Data/Isip06/compiled/7984.110905.093807.0206.wav|Pilipino
+/home/airscan/tts_files/Data/Isip06/compiled/4546.111125.052614.0356.wav|Ayon sa NSO, tumaas ang kita ng Pilipinas sa pag-eexport
+/home/airscan/tts_files/Data/Isip06/compiled/4468.110921.081154.0505.wav|Lihim sa mga mamamayan, nuong panahon na iyon, ang mga Kastila ay may nahuling isang engkantado na kasalukuyan nilang isinasailalim sa eksorsismo (exorcism), isang pamamaraan ng simbahan upang sugpuin ang masamang ispiritu na sumapi sa katawan ng engkantado.
+/home/airscan/tts_files/Data/Isip06/compiled/9693.110915.003829.0251.wav|Maligayang kaarawan ho sa inyo.	
+/home/airscan/tts_files/Data/Isip06/compiled/6093.110816.031856.0234.wav|Marami ka bang gagawin?
+/home/airscan/tts_files/Data/Isip06/compiled/7343.110822.084227.0170.wav|dating
+/home/airscan/tts_files/Data/Isip06/compiled/8328.110914.065008.0417.wav|Hampas sa kalabaw, sa kabayo ang latay.
+/home/airscan/tts_files/Data/Isip06/compiled/8953.120110.011408.0147.wav|Tuguegarao Airport
+/home/airscan/tts_files/Data/Isip06/compiled/7718.110919.074817.0313.wav|Madali lang ba ang eksam, o mahirap?
+/home/airscan/tts_files/Data/Isip06/compiled/1656.111003.081411.0129.wav|ngayon
+/home/airscan/tts_files/Data/Isip06/compiled/8125.110816.100658.0021.wav|pilikmata
+/home/airscan/tts_files/Data/Isip06/compiled/4546.111125.052614.0194.wav|kanilang
+/home/airscan/tts_files/Data/Isip06/compiled/4281.110817.051434.0105.wav|Underground River
+/home/airscan/tts_files/Data/Isip06/compiled/1656.111003.081411.0468.wav|Ikaw'y naglalakbay sa Bagong Daigdig;
+/home/airscan/tts_files/Data/Isip06/compiled/8421.111004.022508.0195.wav|buntot
+/home/airscan/tts_files/Data/Isip06/compiled/5015.110909.051345.0282.wav|Basahin ninyo ang kuwento.
+/home/airscan/tts_files/Data/Isip06/compiled/2156.110822.004242.0015.wav|hinlalaki
+/home/airscan/tts_files/Data/Isip06/compiled/5546.110817.065525.0111.wav|Kesong Puti
+/home/airscan/tts_files/Data/Isip06/compiled/8765.111004.034718.0019.wav|likuran
+/home/airscan/tts_files/Data/Isip06/compiled/8953.120110.011408.0139.wav|Longganisa
+/home/airscan/tts_files/Data/Isip06/compiled/2828.110905.020202.0238.wav|Kumusta?
+/home/airscan/tts_files/Data/Isip06/compiled/7812.110826.025147.0199.wav|white
+/home/airscan/tts_files/Data/Isip06/compiled/2968.110823.020422.0435.wav|Pagkaalis ng alitaptap, tinipon ng gorilya ang kanyang mga kasamahan at ipinaalam sa mga ito ang nakatakdang pagtutuos.
+/home/airscan/tts_files/Data/Isip06/compiled/0390.110909.064720.0111.wav|EDSA Shrine
+/home/airscan/tts_files/Data/Isip06/compiled/5640.110902.080535.0189.wav|kayó (you, plural)
+/home/airscan/tts_files/Data/Isip06/compiled/1734.110901.064551.0208.wav|ikalabintatlo
+/home/airscan/tts_files/Data/Isip06/compiled/7812.110826.025147.0177.wav|buhawi
+/home/airscan/tts_files/Data/Isip06/compiled/6546.110822.052636.0218.wav|Hindi na niya matiis ang gutom (noun) kaya kumain na siya. / Gutóm na gutóm (adjective) na ako.
+/home/airscan/tts_files/Data/Isip06/compiled/7109.110822.021157.0393.wav|Ang tingin nila sa pagong ay isang kaawa-awa, maliit at walang malay na bagay, ngunit maingat sa pamamaraan, higit na kinaaawaan kaysa hangaan o igalang kaya.
+/home/airscan/tts_files/Data/Isip06/compiled/2515.110901.093952.0203.wav|kanya (his or her)
+/home/airscan/tts_files/Data/Isip06/compiled/4625.111004.093634.0138.wav|Iloilo International Airport
+/home/airscan/tts_files/Data/Isip06/compiled/1578.110909.082831.0014.wav|pusod
+/home/airscan/tts_files/Data/Isip06/compiled/0390.110909.064720.0253.wav|Pagpalain ka ng diyos.
+/home/airscan/tts_files/Data/Isip06/compiled/9656.110912.013619.0560.wav|Atulungan ga kamo ni Pedro?
+/home/airscan/tts_files/Data/Isip06/compiled/8187.110822.034058.0223.wav|galang-galáng (respect-bracelet)
+/home/airscan/tts_files/Data/Isip06/compiled/2843.110826.041132.0063.wav|Catherine
+/home/airscan/tts_files/Data/Isip06/compiled/0781.110923.010330.0566.wav|Maalam ka gang magsalita ng Espanyol?
+/home/airscan/tts_files/Data/Isip06/compiled/8062.110822.100328.0002.wav|manugang
+/home/airscan/tts_files/Data/Isip06/compiled/6593.110921.064216.0200.wav|kawal
+/home/airscan/tts_files/Data/Isip06/compiled/0812.110816.021250.0406.wav|Ang tanging biyaya'y moral na adhika;
+/home/airscan/tts_files/Data/Isip06/compiled/9656.110912.013619.0151.wav|hatinggabi
+/home/airscan/tts_files/Data/Isip06/compiled/1578.110909.082831.0032.wav|Oliver
+/home/airscan/tts_files/Data/Isip06/compiled/5250.110907.005955.0238.wav|Tanggapin po ninyo ang aming pakikiramay.
+/home/airscan/tts_files/Data/Isip06/compiled/5734.110916.062315.0293.wav|Ipasa ang papel ng tahimik.
+/home/airscan/tts_files/Data/Isip06/compiled/6593.110921.064216.0020.wav|palakingkingan
+/home/airscan/tts_files/Data/Isip06/compiled/7390.111004.082927.0365.wav|Nakakaapekto sa mabagal na pag-usad ng ekonomiya ng bansa ang patuloy na iringan sa pulitika
+/home/airscan/tts_files/Data/Isip06/compiled/6015.111124.020026.0366.wav|Ito na ang ikalawang ulit na nag-rollback ng kanilang presyo ng produkto ang mga kompanya ng langis simula noong isang linggo. 
+/home/airscan/tts_files/Data/Isip06/compiled/8125.110816.100658.0152.wav|Hulyo
+/home/airscan/tts_files/Data/Isip06/compiled/0781.110923.010330.0280.wav|Ikinalulungkot ko po.
+/home/airscan/tts_files/Data/Isip06/compiled/9693.110915.003829.0408.wav|ngayon lalo't lalo tayong nabibiliran ng tanikalang nakalalait sa bawat lalaking may iniingatang kapurihan.
+/home/airscan/tts_files/Data/Isip06/compiled/5625.111129.075925.0418.wav|May nagsabi sa akin nang ako'y nasa Hapon na ang pagong sa mga tao roon ay isang tanda ng kawalang-hanggan o kaya'y tanda ng isang bagay na kagalang-galang, banal, at iba pa, na maaaring may kinalaman ang kabihasnang Intsik.
+/home/airscan/tts_files/Data/Isip06/compiled/8328.110914.065008.0501.wav|Pagkatapos ng kuwento ni Donya Teodora, tinanong niya si Jose.
+/home/airscan/tts_files/Data/Isip06/compiled/8812.111004.065048.0560.wav|Nasaktang lubha ang matsing at nasugatan ang katawan nang bumaba.
+/home/airscan/tts_files/Data/Isip06/compiled/8703.110823.100408.0291.wav|Magandang hapon ho.	
+/home/airscan/tts_files/Data/Isip06/compiled/3531.111206.045403.0564.wav|Hindi ako duwag! ang nagagalit na sagot ng alitaptap.
+/home/airscan/tts_files/Data/Isip06/compiled/4281.110817.051434.0108.wav|Simbahan ng San Sebastian
+/home/airscan/tts_files/Data/Isip06/compiled/0312.110923.052230.0480.wav|Kaina yaan. (Marinduque)
+/home/airscan/tts_files/Data/Isip06/compiled/7812.110826.025147.0041.wav|Lou
+/home/airscan/tts_files/Data/Isip06/compiled/1734.110901.064551.0305.wav|Ngayong pinakikinggan na umano ang kanilang mga hinaing, nagpahayag na sila ng kahandaang palayain ang mga bihag nang hindi nasasaktan.
+/home/airscan/tts_files/Data/Isip06/compiled/8421.111004.022508.0425.wav|Pagkatapos ng maikling pagsusuring ito, masasapantahang ang kuwentong ito ng Hapon ay nagmula sa isang bansa sa Timog na siya ring pinanggalingan ng kuwentong Pilipino.
+/home/airscan/tts_files/Data/Isip06/compiled/9203.110914.083459.0725.wav|13
+/home/airscan/tts_files/Data/Isip06/compiled/6093.110816.031856.0274.wav|Ipinaliwanag ng pangulo na ibig niyang lumikha ng trabahong malaki ang suweldo sa Ilocos Norte upang hindi na mangibang bansa ang mga Pilipino para kumita lamang nang malaki. 
+/home/airscan/tts_files/Data/Isip06/compiled/7140.110907.063427.0191.wav|Katipunan
+/home/airscan/tts_files/Data/Isip06/compiled/2968.110823.020422.0140.wav|Zamboanga International Airport
+/home/airscan/tts_files/Data/Isip06/compiled/7437.110902.065047.0047.wav|Joy
+/home/airscan/tts_files/Data/Isip06/compiled/9640.110818.005729.0027.wav|ngipin
+/home/airscan/tts_files/Data/Isip06/compiled/4093.111003.052824.0302.wav|Magandang umaga ho sa inyo.	
+/home/airscan/tts_files/Data/Isip06/compiled/5015.110909.051345.0030.wav|kilikili
+/home/airscan/tts_files/Data/Isip06/compiled/8062.110822.100328.0067.wav|Alemanya
+/home/airscan/tts_files/Data/Isip06/compiled/0750.111129.050640.0144.wav|Palaman
+/home/airscan/tts_files/Data/Isip06/compiled/8812.111004.065048.0453.wav|Pagkahaba-haba man ng prusisyon, sa simbahan din ang tuloy.
+/home/airscan/tts_files/Data/Isip06/compiled/5250.110907.005955.0061.wav|Montalbo
+/home/airscan/tts_files/Data/Isip06/compiled/5968.110824.005315.0386.wav|Nagsara ang piso sa limampu't isang piso at labing walong sentimo kontra sa isang dolyar kahapon, ang pinakamataas na halaga nito simula noong Hulyo ng taong dalawang libo't dalawa.
+/home/airscan/tts_files/Data/Isip06/compiled/7390.111004.082927.0464.wav|Mga kaugaliang buhay-Pilipino,
+/home/airscan/tts_files/Data/Isip06/compiled/1015.111206.063111.0367.wav|Masusing pinag-aaralan ngayon ng lokal na pamahalaan ng lungsod ng Manila kung anu-anong kaso ang maaaring isampa laban sa mga kilalang personalidad na nagtayo ng negosyo sa baywalk sa kahabaan ng Roxas Blvd.
+/home/airscan/tts_files/Data/Isip06/compiled/8187.110822.034058.0329.wav|Katunayan sinabi ng BSP na kumpara noong mga nakaraang taon, bumaba ng mahigit isang dolyar ang singil sa pagpapadala ng dolyar. 
+/home/airscan/tts_files/Data/Isip06/compiled/9656.110912.013619.0353.wav|Ang paglakas ng piso ay posibleng magpatuloy hanggang matapos ang taong dalawang libo at anim
+/home/airscan/tts_files/Data/Isip06/compiled/1734.110901.064551.0319.wav|Samie Lim, nahalal bilang bagong pangulo ng PCCI
+/home/airscan/tts_files/Data/Isip06/compiled/6546.110822.052636.0097.wav|Bundok Apo
+/home/airscan/tts_files/Data/Isip06/compiled/2843.110826.041132.0318.wav|Tumaas na naman ng mahigit isang dolyar ang presyo kada bariles ng gasolina sa pandaigdigang pamilihan. 
+/home/airscan/tts_files/Data/Isip06/compiled/1015.111206.063111.0405.wav|Mainam na ang pipit na nasa kamay kaysa lawing lumilipad.
+/home/airscan/tts_files/Data/Isip06/compiled/0593.110919.093000.0071.wav|Centro Escolar University
+/home/airscan/tts_files/Data/Isip06/compiled/9859.110817.092649.0033.wav|sikmura
+/home/airscan/tts_files/Data/Isip06/compiled/0750.111129.050640.0362.wav|Malaki rin ang naitutulong nito sa paglalako ng mga magsasaka sa kanilang mga produkto.
+/home/airscan/tts_files/Data/Isip06/compiled/3531.111206.045403.0085.wav|Philippine Savings Bank
+/home/airscan/tts_files/Data/Isip06/compiled/9656.110912.013619.0075.wav|Pilipino Telephone Corporation
+/home/airscan/tts_files/Data/Isip06/compiled/7140.110907.063427.0492.wav|Nakain ako ng mangga.
+/home/airscan/tts_files/Data/Isip06/compiled/8640.110913.092848.0099.wav|Sofitel Philippine Plaza
+/home/airscan/tts_files/Data/Isip06/compiled/1578.110909.082831.0429.wav|Sa kuwentong Pilipino, ang paghihiganti ng pagong kahit na may kaunting kamulalaan ay nagpapakilala ng una't pambihirang pamamaraan, may matutulis na susó, samantalang sa kuwentong Hapon ay may bakas ng lalong maunlad na kalagayan ng kapisanan, gaya ng digmaan ng mga alimango at mga matsing.
+/home/airscan/tts_files/Data/Isip06/compiled/4156.110907.050854.0212.wav|Naga
+/home/airscan/tts_files/Data/Isip06/compiled/8703.110823.100408.0040.wav|baywang
+/home/airscan/tts_files/Data/Isip06/compiled/4093.111003.052824.0276.wav|Tanggapin mo ang aking pakikiramay.
+/home/airscan/tts_files/Data/Isip06/compiled/0484.110824.080440.0064.wav|Delos Reyes
+/home/airscan/tts_files/Data/Isip06/compiled/1015.111206.063111.0376.wav|Nahihirapan ka bang huminga?
+/home/airscan/tts_files/Data/Isip06/compiled/5546.110817.065525.0342.wav|Inaasahang bababa ang utang panlabas ng Pilipinas
+/home/airscan/tts_files/Data/Isip06/compiled/2316.110831.094342.0328.wav|Nahaharap ngayon sa matinding pagsubok ang industriya ng saging sa bansa. 
+/home/airscan/tts_files/Data/Isip06/compiled/8125.110816.100658.0358.wav|Magandang gabi ho Dok
+/home/airscan/tts_files/Data/Isip06/compiled/5015.110909.051345.0298.wav|Anu-ano ang niluto ni Maricel?
+/home/airscan/tts_files/Data/Isip06/compiled/5102.110930.084135.0198.wav|tagbisi
+/home/airscan/tts_files/Data/Isip06/compiled/4468.110921.081154.0537.wav|May butas ang ringring nila.
+/home/airscan/tts_files/Data/Isip06/compiled/0750.111129.050640.0171.wav|kinagabihan
+/home/airscan/tts_files/Data/Isip06/compiled/3031.110901.010213.0144.wav|araw-araw
+/home/airscan/tts_files/Data/Isip06/compiled/5625.111129.075925.0333.wav|Sinabi ni Baterina na matatapos ang proyekto sa taong dalawang libo at walo na matutulungan ang mga magsasaka sa anim na bayan sa unang distrito ng lalawigan. 
+/home/airscan/tts_files/Data/Isip06/compiled/0265.110823.033220.0364.wav|Matutuyo na ang sapa nguni't hindi ang balita.
+/home/airscan/tts_files/Data/Isip06/compiled/0781.110923.010330.0067.wav|Aprika
+/home/airscan/tts_files/Data/Isip06/compiled/0593.110919.093000.0464.wav|56
+/home/airscan/tts_files/Data/Isip06/compiled/5015.110909.051345.0233.wav|Nagkaroon ng sunog (fire) sa Maynila kagabi. / Sunóg na sunóg (burnt) ang bahaging ito ng lungsod.
+/home/airscan/tts_files/Data/Isip06/compiled/6890.110902.052656.0376.wav|Ang lumalakad nang mabagal, kung matinik ay mababaw. Ang lumalakad nang matulin, kung matinik ay malalim.
+/home/airscan/tts_files/Data/Isip06/compiled/5640.110902.080535.0267.wav|Magkita na lang ho tayo sa susunod.
+/home/airscan/tts_files/Data/Isip06/compiled/9625.110824.093109.0100.wav|Makati Shangri-La Hotel
+/home/airscan/tts_files/Data/Isip06/compiled/8421.111004.022508.0249.wav|Tanggapin po ninyo ang aming taós pusong pasasalamat!
+/home/airscan/tts_files/Data/Isip06/compiled/6593.110921.064216.0065.wav|Flores 
+/home/airscan/tts_files/Data/Isip06/compiled/7140.110907.063427.0295.wav|Pupunta ka ba sa Maynila, o sa Baguio?
+/home/airscan/tts_files/Data/Isip06/compiled/3437.110909.014723.0003.wav|kalaguyo
+/home/airscan/tts_files/Data/Isip06/compiled/5734.110916.062315.0475.wav|Ngayon naman ang pagkakataon na araw.
+/home/airscan/tts_files/Data/Isip06/compiled/0812.110816.021250.0296.wav|Lalong pinalakas ang reporma ni PGMA
+/home/airscan/tts_files/Data/Isip06/compiled/1468.111129.004541.0014.wav|ugat
+/home/airscan/tts_files/Data/Isip06/compiled/9859.110817.092649.0427.wav|Sa mga sumusunod, ay mapapansin ang malapit na pagkakahawig ng dalawang pabula hanggang sa sumapit sa bahaging ang alimango'y tumakas at pumasok sa kaniyang lungga.
+/home/airscan/tts_files/Data/Isip06/compiled/1015.111206.063111.0219.wav|bara-bará (measure-obstruction)
+/home/airscan/tts_files/Data/Isip06/compiled/8640.110913.092848.0458.wav|Pinasan ng matsing ang pagong , nagtungo sa tabing-ilog at saka itinapon ang kaniyang dala sa tubig.
+/home/airscan/tts_files/Data/Isip06/compiled/5093.110818.065955.0233.wav|Sige ho.
+/home/airscan/tts_files/Data/Isip06/compiled/0390.110909.064720.0393.wav|Lumakas ang bentahan ng mga sasakyan sa huling bahagi ng Marso ngayong taon.
+/home/airscan/tts_files/Data/Isip06/compiled/7109.110822.021157.0341.wav|Para pong may bukol ako sa kaliwang suso
+/home/airscan/tts_files/Data/Isip06/compiled/7718.110919.074817.0128.wav|Minatamis
+/home/airscan/tts_files/Data/Isip06/compiled/4093.111003.052824.0292.wav|Magkita na lang ho tayo sa susunod.
+/home/airscan/tts_files/Data/Isip06/compiled/8421.111004.022508.0036.wav|Dominic
+/home/airscan/tts_files/Data/Isip06/compiled/7546.110916.080817.0377.wav|Ilang araw po ba bago ito umepekto?
+/home/airscan/tts_files/Data/Isip06/compiled/0593.110919.020930.0093.wav|PSE Composite Index
+/home/airscan/tts_files/Data/Isip06/compiled/2156.110822.004242.0214.wav|magnanakaw-magnanakaw (thief-to steal)
+/home/airscan/tts_files/Data/Isip06/compiled/1015.111206.063111.0317.wav|Sinabi rin ni Aspe na susuriin ng ahensya ang libro ng naturang mga establisimyento para malaman kung sino sa mga may-ari nito ang nagdedeklara ng tamang kinikita ng kanilang negosyo.
+/home/airscan/tts_files/Data/Isip06/compiled/7140.110907.063427.0055.wav|Joy
+/home/airscan/tts_files/Data/Isip06/compiled/7812.110826.025147.0386.wav|Hingang malalim
+/home/airscan/tts_files/Data/Isip06/compiled/6593.110921.064216.0351.wav|Hindi naman po 'yan nakakahawa.
+/home/airscan/tts_files/Data/Isip06/compiled/7156.111003.093337.0141.wav|Davao International Airport
+/home/airscan/tts_files/Data/Isip06/compiled/5015.110909.051345.0383.wav|Ang hindi marunong lumingon sa pinanggalingan ay hindi makararatíng sa paroroonan.
+/home/airscan/tts_files/Data/Isip06/compiled/6546.110822.052636.0084.wav|The Orchard Cebu Hotel & Suites
+/home/airscan/tts_files/Data/Isip06/compiled/1656.111003.081411.0085.wav|Crown Regency Hotel & Towers
+/home/airscan/tts_files/Data/Isip06/compiled/3437.110909.014723.0424.wav|Sa ngayon, nagbibigay ang industriya ng paputok ng apat na raang milyong pisong kita sa pamahalaan.
+/home/airscan/tts_files/Data/Isip06/compiled/1734.110901.064551.0234.wav|Ang kapatid niya ay isang mangingisda (fisherman). / Mangingisda (will fish) siya bukas ng umaga.
+/home/airscan/tts_files/Data/Isip06/compiled/9687.120201.050119.0186.wav|Gusto mo ba ng baboy?
+/home/airscan/tts_files/Data/Isip06/compiled/7187.110906.064717.0049.wav|Margarita
+/home/airscan/tts_files/Data/Isip06/compiled/4609.111003.070834.0287.wav|Kunin ninyo ang inyong mga kwaderno.
+/home/airscan/tts_files/Data/Isip06/compiled/4468.110921.081154.0371.wav|Umuwi ang pangulo mula sa Davos na dala ang mga magagandang balita para sa mga Pilipino, lalo na ang balak ng mga malalaking negosyante sa daigdig na mamuhunan dito sa ating bansa. 
+/home/airscan/tts_files/Data/Isip06/compiled/0750.111129.050640.0425.wav|Kung takot sa ahas, iwasan mo ang gubat.
+/home/airscan/tts_files/Data/Isip06/compiled/1015.111206.063111.0344.wav|Dalawang milyong piso ang pondong ilalaan ng DA sa pag-angkat ng gulay mula sa mga lalawigan
+/home/airscan/tts_files/Data/Isip06/compiled/7390.111004.082927.0192.wav|kami (we, inclusive)
+/home/airscan/tts_files/Data/Isip06/compiled/8421.111004.022508.0177.wav|Rizal
+/home/airscan/tts_files/Data/Isip06/compiled/4093.111003.052824.0112.wav|Pagudpud
+/home/airscan/tts_files/Data/Isip06/compiled/4156.110907.050854.0244.wav|doon
+/home/airscan/tts_files/Data/Isip06/compiled/6093.110816.031856.0042.wav|Anjo
+/home/airscan/tts_files/Data/Isip06/compiled/0406.110823.065630.0178.wav|malamig
+/home/airscan/tts_files/Data/Isip06/compiled/9750.110818.024409.0343.wav|Aabot sa labing-isang bilyong piso ang atraso ng mga GOCCs sa gobyerno
+/home/airscan/tts_files/Data/Isip06/compiled/3531.111206.045403.0511.wav|Tangi pa rito, ang mga punong saging ay madalas na binubunot ng mga tao, gaya ng ginawa ng pangunang mga tauhan ng ating kuwento, itinatanim nila at pinipitas ang mga bunga (o ang pusong nagbibigay ng mga bunga) sa loob ng tatlo o apat na araw.
+/home/airscan/tts_files/Data/Isip06/compiled/7390.111004.082927.0506.wav|28
+/home/airscan/tts_files/Data/Isip06/compiled/7546.110916.080817.0257.wav|Tuloy po sila.
+/home/airscan/tts_files/Data/Isip06/compiled/8640.110913.092848.0488.wav|Ang salita nati’y tulad din sa iba
+/home/airscan/tts_files/Data/Isip06/compiled/2156.110822.004242.0220.wav|Nasira ang tubo (pipe) nila sa kusina. / Malaki ang tubo (profit) nila.
+/home/airscan/tts_files/Data/Isip06/compiled/0171.111004.004730.0379.wav|Kumpleto po ba siya sa bakuna?
+/home/airscan/tts_files/Data/Isip06/compiled/5102.110930.084135.0052.wav|Christopher
+/home/airscan/tts_files/Data/Isip06/compiled/9625.110824.093109.0266.wav|Magandang umaga po sa inyo.	
+/home/airscan/tts_files/Data/Isip06/compiled/8062.110822.100328.0377.wav|Marami ang matapang sa bilang, ngunit ang buo ang loob ay kulang.
+/home/airscan/tts_files/Data/Isip06/compiled/2187.110923.071602.0457.wav|Ngunit habang lumakas at tumitindi ang pag-ihip niya ng hangin ay siya namang higpit ng hawak ng lalaki sa kanyang pangginaw.
+/home/airscan/tts_files/Data/Isip06/compiled/5015.110909.051345.0246.wav|Tanggapin mo ang aking pakikiramay.
+/home/airscan/tts_files/Data/Isip06/compiled/1515.110907.082241.0011.wav|kalaro
+/home/airscan/tts_files/Data/Isip06/compiled/8000.110912.033318.0440.wav|Pagkatapos ng maikling pagsusuring ito, masasapantahang ang kuwentong ito ng Hapon ay nagmula sa isang bansa sa Timog na siya ring pinanggalingan ng kuwentong Pilipino.
+/home/airscan/tts_files/Data/Isip06/compiled/2843.110826.041132.0401.wav|Walang mahirap na gawa pag dinaan sa tiyaga.
+/home/airscan/tts_files/Data/Isip06/compiled/7187.110906.064717.0466.wav|80
+/home/airscan/tts_files/Data/Isip06/compiled/1578.110909.082831.0033.wav|William
+/home/airscan/tts_files/Data/Isip06/compiled/2156.110822.004242.0348.wav|Mawawala ba agad ito Dok?
+/home/airscan/tts_files/Data/Isip06/compiled/0171.111004.004730.0200.wav|kailangan
+/home/airscan/tts_files/Data/Isip06/compiled/2751.110908.092002.0113.wav|Powerplant Rockwell Mall
+/home/airscan/tts_files/Data/Isip06/compiled/9859.110817.092649.0367.wav|Magandang hapon ho Dok
+/home/airscan/tts_files/Data/Isip06/compiled/0750.111129.050640.0413.wav|Itigil mo na ang paninigarilyo
+/home/airscan/tts_files/Data/Isip06/compiled/0470.110908.020820.0214.wav|gabi-gabí (tuber-night)
+/home/airscan/tts_files/Data/Isip06/compiled/5093.110818.065955.0444.wav|Tinatawag tayo ni Tatay. (Manila)
+/home/airscan/tts_files/Data/Isip06/compiled/3031.110901.010213.0458.wav|ang nagiging kasagutan ay ang tayo'y itapon at ilayo sa piling ng ating minamahal ng anak, asawa at matandang magulang.
+/home/airscan/tts_files/Data/Isip06/compiled/9453.110912.064249.0169.wav|Dumaguete Airport
+/home/airscan/tts_files/Data/Isip06/compiled/8953.120110.011408.0184.wav|Marawi
+/home/airscan/tts_files/Data/Isip06/compiled/3875.110825.022713.0198.wav|tubig
+/home/airscan/tts_files/Data/Isip06/compiled/7437.110902.065047.0098.wav|Underground River
+/home/airscan/tts_files/Data/Isip06/compiled/7984.110905.093807.0060.wav|Bea
+/home/airscan/tts_files/Data/Isip06/compiled/0750.111129.050640.0297.wav|Magkita na lang po tayo sa susunod.
+/home/airscan/tts_files/Data/Isip06/compiled/3875.110825.022713.0361.wav|Bunga ng sumusulong na ekonomiya, naipaparating na sa taong-bayan
+/home/airscan/tts_files/Data/Isip06/compiled/2828.110905.020202.0017.wav|palasingsingan
+/home/airscan/tts_files/Data/Isip06/compiled/3531.111206.045403.0019.wav|kalingkingan
+/home/airscan/tts_files/Data/Isip06/compiled/7156.111003.093337.0180.wav|Malate
+/home/airscan/tts_files/Data/Isip06/compiled/2062.110825.085322.0450.wav|Susulat sina Maria at Pedro kay Juan. (Manila)
+/home/airscan/tts_files/Data/Isip06/compiled/3531.111206.045403.0141.wav|Cagayan de Oro Airport
+/home/airscan/tts_files/Data/Isip06/compiled/7437.110902.065047.0259.wav|Anong pagkain natin ngayon?
+/home/airscan/tts_files/Data/Isip06/compiled/1468.111129.004541.0398.wav|Nahihilo ka ba?
+/home/airscan/tts_files/Data/Isip06/compiled/8328.110914.065008.0378.wav|Aniya, maaring maipatupad ang naturang panukala pagkatapos ng kanyang termino.
+/home/airscan/tts_files/Data/Isip06/compiled/6593.110921.064216.0296.wav|Ano ang niluto ni Michelle?
+/home/airscan/tts_files/Data/Isip06/compiled/4468.110921.081154.0336.wav|Pero kampante naman ang EU na makakahanap ng agarang solusyon ang Pilipinas patungkol sa naturang isyu.
+/home/airscan/tts_files/Data/Isip06/compiled/5250.110907.005955.0443.wav|Maalam ka gang magsalita ng Espanyol?
+/home/airscan/tts_files/Data/Isip06/compiled/3781.110906.094423.0122.wav|Chinatown
+/home/airscan/tts_files/Data/Isip06/compiled/8187.110822.034058.0130.wav|Suman
+/home/airscan/tts_files/Data/Isip06/compiled/8953.120110.011408.0046.wav|Ariel
+/home/airscan/tts_files/Data/Isip06/compiled/6593.110921.064216.0171.wav|Batac
+/home/airscan/tts_files/Data/Isip06/compiled/8000.110912.033318.0253.wav|Salamat.
+/home/airscan/tts_files/Data/Isip06/compiled/1515.110907.082241.0373.wav|Nakahanda ang bansa na kunin ang malaking parte ng pamilihang-mangga sa Estados Unidos, ayun sa sekretaryo ng Departamento ng Agrikultura. 
+/home/airscan/tts_files/Data/Isip06/compiled/4625.111004.093634.0278.wav|Magandang hapon sa inyo.	
+/home/airscan/tts_files/Data/Isip06/compiled/0781.110923.010330.0518.wav|Tulad ng kanyang mga magulang si Bernardo ay lumaking mabait, matulungin, at matatag ang loob.
+/home/airscan/tts_files/Data/Isip06/compiled/6093.110816.031856.0336.wav|Kunwaring matapang, bagkus duwag naman.
+/home/airscan/tts_files/Data/Isip06/compiled/0812.110816.021250.0014.wav|utak
+/home/airscan/tts_files/Data/Isip06/compiled/7968.111124.050337.0272.wav|linisin ang silid-aralan
+/home/airscan/tts_files/Data/Isip06/compiled/4546.111125.052614.0196.wav|minsan
+/home/airscan/tts_files/Data/Isip06/compiled/0593.110919.093000.0412.wav|Dahil sa kanilang ipinamalas na kabutihan, pagtitiis, at pananalig ay kinaawaan din sila ni Bathala at dininig ang kanilang panalangin na magkaruon ng sariling anak.
+/home/airscan/tts_files/Data/Isip06/compiled/2828.110905.020202.0038.wav|Omar
+/home/airscan/tts_files/Data/Isip06/compiled/0812.110816.021250.0424.wav|74
+/home/airscan/tts_files/Data/Isip06/compiled/2968.110905.063932.0247.wav|ikadalawampung
+/home/airscan/tts_files/Data/Isip06/compiled/5984.110823.083245.0299.wav|Isa na umano dito ang malalaking kompanyang nakabase sa europa ang naghahangad na mamuhunan nang malaki sa Pilipinas. 
+/home/airscan/tts_files/Data/Isip06/compiled/0593.110919.020930.0583.wav|Sa pagdaraanan patungo sa isang yungib ay naghihintay ang engkantado na nagtatago sa likuran ng magkaparis na naglalakihang bato.
+/home/airscan/tts_files/Data/Isip06/compiled/8640.110913.092848.0192.wav|riyan (there, near)
+/home/airscan/tts_files/Data/Isip06/compiled/5071.110930.015805.0298.wav|Sagutin ang mga takdang-aralin.
+/home/airscan/tts_files/Data/Isip06/compiled/9000.110818.055659.0149.wav|isang
+/home/airscan/tts_files/Data/Isip06/compiled/6578.110826.011706.0295.wav|Anu-ano ang bibilhin ni Michael sa palengke?
+/home/airscan/tts_files/Data/Isip06/compiled/1734.110901.064551.0154.wav|paminsan
+/home/airscan/tts_files/Data/Isip06/compiled/7156.111003.093337.0101.wav|Maribago Bluewater Beach Resort
+/home/airscan/tts_files/Data/Isip06/compiled/5071.110930.015805.0167.wav|oras-oras
+/home/airscan/tts_files/Data/Isip06/compiled/5625.111129.075925.0246.wav|﻿Magandang umaga.
+/home/airscan/tts_files/Data/Isip06/compiled/2062.110825.085322.0060.wav|Jocelyn
+/home/airscan/tts_files/Data/Isip06/compiled/5250.110907.005955.0026.wav|baga
+/home/airscan/tts_files/Data/Isip06/compiled/2515.110901.093952.0351.wav|Ayon sa grupo, ito lamang ang nakikita nilang paraan para makabawi sa mataas na gastusin nila sa krudo na gamit sa mga bangkang pangisda.
+/home/airscan/tts_files/Data/Isip06/compiled/0593.110919.020930.0599.wav|Sa pistang-bayan masasaksihan mo,
+/home/airscan/tts_files/Data/Isip06/compiled/5102.110930.084135.0180.wav|malimit
+/home/airscan/tts_files/Data/Isip06/compiled/2968.110905.063932.0071.wav|Angelo
+/home/airscan/tts_files/Data/Isip06/compiled/3437.110909.014723.0093.wav|PSE Composite Index
+/home/airscan/tts_files/Data/Isip06/compiled/7812.110826.025147.0109.wav|Banaue Rice Terraces
+/home/airscan/tts_files/Data/Isip06/compiled/1734.110901.064551.0082.wav|SM Prime
+/home/airscan/tts_files/Data/Isip06/compiled/8125.110816.100658.0409.wav|Kung ang mga matsing ay talagang higit na malakas kaysa mga alimangong nagnanais ng kapayapaan, ang bagay na ito'y hindi makapag-uudyok sa hari na pumasok sa lungga nang walang kasama, yamang siya nama'y hindi pinilit ng isang lalong malakas na kalaban; ngunit ang mangyayari'y tutungo ang mga alimango sa mga matsing upang makipagkasundo.
+/home/airscan/tts_files/Data/Isip06/compiled/7812.110826.025147.0346.wav|Aniya, malaki ang pakinabang na makukuha ng taumbayan kung mayroong malinaw na reporma sa patakaran ng bansa.
+/home/airscan/tts_files/Data/Isip06/compiled/8656.111129.020758.0307.wav|magpasa ng tahimik
+/home/airscan/tts_files/Data/Isip06/compiled/5968.110824.005315.0432.wav|Ang araw ng katuwiran na sumisikat sa Silanganan, ay malinaw na itinuturo sa ating mga matang malaong nabulagan,
+/home/airscan/tts_files/Data/Isip06/compiled/5734.110916.062315.0203.wav|maraming
+/home/airscan/tts_files/Data/Isip06/compiled/6093.110816.031856.0372.wav|Samantala, ang pagmamalupit at paninikil ng mga Kastila sa mga karapatan at kalayaan ng mga Pilipino ay lalung nag-ibayo.
+/home/airscan/tts_files/Data/Isip06/compiled/7437.110902.065047.0090.wav|Diamond Hotel
+/home/airscan/tts_files/Data/Isip06/compiled/9859.110817.092649.0037.wav|Erwin
+/home/airscan/tts_files/Data/Isip06/compiled/8000.110912.033318.0067.wav|Catherine
+/home/airscan/tts_files/Data/Isip06/compiled/5015.110909.051345.0161.wav|mamayang
+/home/airscan/tts_files/Data/Isip06/compiled/7187.110906.064717.0100.wav|Rizal Shrine
+/home/airscan/tts_files/Data/Isip06/compiled/9453.110912.064249.0378.wav|Nakahanda ang Amerika na ituloy ang pag-develop sa industriya ng gatas sa Pilipinas.
+/home/airscan/tts_files/Data/Isip06/compiled/9656.110912.013619.0071.wav|DMCI Holdings
+/home/airscan/tts_files/Data/Isip06/compiled/5781.111124.050515.0526.wav|Aba'y buksi! (Batangan)
+/home/airscan/tts_files/Data/Isip06/compiled/8656.111129.020758.0505.wav|Dahil sa taglay na lakas at bilis ang kabayo ay tinawag niyang si Hagibis, at mula nuon si Bernardo at si Hagibis ay laging magkasama sa pamamasyal sa kabundukan ng San Mateo.
+/home/airscan/tts_files/Data/Isip06/compiled/5640.110902.080535.0199.wav|dumating
+/home/airscan/tts_files/Data/Isip06/compiled/2968.110905.063932.0175.wav|gab-i		(Batangas, Marinduque)
+/home/airscan/tts_files/Data/Isip06/compiled/1578.110909.082831.0498.wav|93
