@@ -43,8 +43,10 @@ A compilation of Text-to-Speech Synthesis projects
 # Tagalog Text-to-Speech Synthesis
 Uses any or a combination of existing works, but applied in the Tagalog language. For this project, NVIDIA's tacotron2 and waveglow provided the best result despite the networks being optimized for single-speaker data and our tagalog dataset being multi-speaker. This might be because, given that tacotron2 trains on per-character level, it properly learns the speaker-dependent features such as prosody. Hence, the network was able to capture this information but fails in modeling the voice.
 
-Training tacotron2: python train.py --output_directory \[output dir] --log_directory \[log dir] -c \[optional, checkpoint file]<br>
-Training waveglow: python train.py -c config.json<br>
-Training deepvoice3: python train.py --data-root=\[data file] --preset=\[preset file] --checkpoint=\[optional, checkpoint file]
+Training tacotron2: `python train.py --output_directory \[output dir] --log_directory \[log dir] -c \[optional, checkpoint file]`<br>
+Training waveglow: `python train.py -c config.json`<br>
+Training deepvoice3: `python train.py --data-root=\[data file] --preset=\[preset file] --checkpoint=\[optional, checkpoint file]`<br>
+
+Checkpoints can be found here: [checkpoints](https://drive.google.com/drive/folders/1CuV7v9up5PcHuPzFsOsvx9_KQ2q2O-ky?usp=sharing)<br>
 
 Please change necessary parameters in respective config files to match data.
