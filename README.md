@@ -54,6 +54,6 @@ Please change necessary parameters in respective config files to match data.
 #### Voice Conversion Option
 Adding in Kobayashi's Sprocket was supposedly a test if whether implementing a voice conversion <i>after</i> the network would mitigate the grittiness of the output. As expected, results showed no improvements to poor performance, especially when tested with longer sentences.
 
-Training was done by, first, generating the source voice using network and the target taken from the data. Both source and target must speak the same words. Moreover, all target data must come from a single speaker. This can be done manually. Or you can download some of our used data [here](https://drive.google.com/drive/folders/1CuV7v9up5PcHuPzFsOsvx9_KQ2q2O-ky?usp=sharing), paste it inside `/sprocket/example/data/`
+Training was done by, first, generating the source voice using network and the target taken from the data. Both source and target must speak the same words. Moreover, all target data must come from a single speaker. This can be done manually. Or you can download some of our used data [here](https://drive.google.com/drive/folders/1CuV7v9up5PcHuPzFsOsvx9_KQ2q2O-ky?usp=sharing), and paste it inside `/sprocket/example/data/`
 
 For training and/ generation, please follow the steps [here](https://github.com/k2kobayashi/sprocket/blob/master/docs/vc_example.md)
