@@ -50,3 +50,5 @@ Training deepvoice3 (in deepvoice3 folder): `python train.py --data-root=\[data 
 Checkpoints can be found here: [checkpoints](https://drive.google.com/drive/folders/1CuV7v9up5PcHuPzFsOsvx9_KQ2q2O-ky?usp=sharing)<br>
 
 Please change necessary parameters in respective config files to match data.
+
+Adding in Kobayashi's Sprocket was supposedly a test if whether implementing a voice conversion <i>after</i> the network would mitigate the grittiness of the output. As expected, results showed no improvements to poor performance, especially when tested with longer sentences.
